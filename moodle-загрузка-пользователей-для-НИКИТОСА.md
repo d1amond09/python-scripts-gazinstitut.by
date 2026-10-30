@@ -1135,30 +1135,4 @@ WHERE student_id IN (SELECT std_no FROM contacts WHERE grp_no = 42);
 ⊘ Выключен / Пропуск
 ```
 
-### Связанные инструкции
-
-- `README.md` — тема WordPress ГИПК «ГАЗ-ИНСТИТУТ»
-- `readme.md` — плагин `gazeta-archive`
-- `readme.md` — плагин `webdav-storage-offload`
-- `readme.md` — плагин `my-forms-plugin`
-- `readme.md` — скрипт `watermark_pdf.py`
-
----
-
-## Контакты
-
-- **Тема / плагины:** ГИПК «ГАЗ-ИНСТИТУТ», https://gazinstitut.by/
-- **Скрипт:** `moodle_upload.py`, версия из репозитория института
-- **Техподдержка:** через тикеты / email администратора
-```
-
----
-
-## Что дальше
-
-Этот `README.md` можно сохранить как:
-
-```
-moodle-upload/readme.md
-```
 
